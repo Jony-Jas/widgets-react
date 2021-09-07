@@ -1,12 +1,25 @@
-# widgets-react
+# Widgets demostration using React
 
-In the project directory, you can run:
+The widgets includes:
+  * Accordion Mockup
+  * Wikipedia search 
+  * Dropdown Mockup
+  * Google Translate (To use you need your own key)
 
-### `npm start`
+#### To Run this, Clone it and install modules using
+```
+npm install
+```
 
-Runs the app in the development mode.\
+ To execute this project just type
+```
+npm start
+```
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Enjoy...!
+
+
+
+
 
