@@ -4,7 +4,7 @@ The widgets includes:
   * Accordion Mockup
   * Wikipedia search 
   * Dropdown Mockup
-  * Google Translate (To use you need your own key)
+  * Google Translate (you need your own key)
 
 #### To Run this, Clone it and install modules using
 ```
